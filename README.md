@@ -2,6 +2,12 @@
 
 🤖 An intelligent financial analysis tool that leverages AI to provide deep insights into stock market data using yfinance and OpenAI's GPT models.
 
+---
+
+<img width="885" alt="Screenshot 2025-02-02 at 03 31 03" src="https://github.com/user-attachments/assets/98b0ef22-f412-43e1-a350-44bb317576f4" />
+
+---
+
 ## ✨ Features
 
 - 📈 Real-time stock data analysis using yfinance
