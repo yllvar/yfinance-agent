@@ -1,6 +1,5 @@
 # 📊 YFinance Agent - AI-Powered Stock Analysis Intern
 ___
-![download-5](https://github.com/user-attachments/assets/b4f19066-48de-45d3-b0a6-4dd91353bc45)
 
 🤖 An intelligent financial analysis tool that leverages AI to provide deep insights into stock market data using yfinance and OpenAI's GPT models.
 
@@ -53,6 +52,8 @@ yarn dev
 ```
 
 Visit 🌐 **http://localhost:3000** to see your app.
+
+![download-5](https://github.com/user-attachments/assets/b4f19066-48de-45d3-b0a6-4dd91353bc45)
 
 ## 🌟 Usage
 
